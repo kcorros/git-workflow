@@ -1,6 +1,6 @@
 # Github Workflow
 
-This reposiotry (**repo**) was built to run through a step by step process to understand the Github task workflow we utlize at [LearningFuze](http://learningfuze.com). We will be using the following tools:
+This repository (**repo**) was built to run through a step by step process to understand the Github task workflow we utlize at [LearningFuze](http://learningfuze.com). We will be using the following tools:
 - Git using Terminal (Mac) or GitBash (Windows) - [Download](http://git-scm.com/downloads)
 - Github.com
 - SublimeText 3 Text Editor - <a href="http://www.sublimetext.com/3" target="_blank">Download</a>
